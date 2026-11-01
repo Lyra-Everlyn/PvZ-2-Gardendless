@@ -1,0 +1,4012 @@
+{
+  "ticket": 0,
+  "github_level_paths": [
+    "#SandBoxes#"
+  ],
+  "github_levels": {
+    "=Collaborative Levels=/Non-existentPast(bank theft)/Unthinkable.JSON": {
+      "last_victory": false,
+      "comment": 0
+    },
+    "=Collaborative Levels=/Non-existentPast(bank theft)/Unthinkable_Nightmare.JSON": {
+      "last_victory": false,
+      "comment": 0
+    },
+    "#SandBoxes#/sandbox.json": {
+      "last_played_time": 1793486418333,
+      "last_victory": false,
+      "comment": 0
+    },
+    "#SandBoxes#/sandbox_dinosaurs.json": {
+      "last_victory": false,
+      "comment": 0
+    },
+    "#SandBoxes#/sandbox_green.json": {
+      "last_victory": false,
+      "comment": 0
+    },
+    "#SandBoxes#/sandbox_griditems.json": {
+      "last_victory": false,
+      "comment": 0
+    },
+    "#SandBoxes#/sandbox_mgp.json": {
+      "last_victory": false,
+      "comment": 0
+    },
+    "#SandBoxes#/sandbox_modern.json": {
+      "last_victory": false,
+      "comment": 0
+    },
+    "#SandBoxes#/sandbox_modern_night.json": {
+      "last_victory": false,
+      "comment": 0
+    },
+    "#SandBoxes#/sandbox_pirate.json": {
+      "last_victory": false,
+      "comment": 0
+    },
+    "#SandBoxes#/sandbox_sky.json": {
+      "last_victory": false,
+      "comment": 0
+    }
+  },
+  "experience": 0,
+  "level_of_the_day": {
+    "date_changed": false,
+    "finished": false,
+    "events": {
+      "Default": {
+        "played_levels": [
+          "lod_61"
+        ]
+      }
+    },
+    "level_of_today": "lod_61"
+  },
+  "plant_of_the_week": {
+    "current_plant": "slingpea",
+    "last_read_time": {
+      "date": 1,
+      "month": 10,
+      "year": 2026
+    },
+    "plants_read": [
+      "slingpea"
+    ]
+  },
+  "name": "Lyra Everlyn",
+  "forceLevel": "",
+  "worldkey": 999,
+  "gem": 99999999,
+  "coin": 99999999,
+  "sprout": 99999999,
+  "time": 1793486668770,
+  "date": {
+    "date": 1,
+    "month": 11,
+    "year": 2026,
+    "hour": 5,
+    "minute": 44,
+    "second": 28,
+    "plantCostumeToday": [
+      {
+        "plant_type": "peashooter",
+        "costume": 1
+      },
+      {
+        "plant_type": "sunflower",
+        "costume": 5
+      },
+      {
+        "plant_type": "peashooter",
+        "costume": 9
+      },
+      {
+        "plant_type": "potatomine",
+        "costume": 0
+      },
+      {
+        "plant_type": "peashooter",
+        "costume": 8
+      },
+      {
+        "plant_type": "sunflower",
+        "costume": 2
+      },
+      {
+        "plant_type": "wallnut",
+        "costume": 4
+      },
+      {
+        "plant_type": "peashooter",
+        "costume": 5
+      }
+    ],
+    "lunar_date": 23,
+    "lunar_month": 9,
+    "lunar_year": 2026
+  },
+  "difficulty": 3,
+  "plantProps": {
+    "peashooter": {
+      "medal": true,
+      "progress": 1,
+      "tutorialLevel": 1,
+      "costume": 8,
+      "costumes": [
+        1,
+        9,
+        5,
+        8
+      ],
+      "boost": 1
+    },
+    "sunflower": {
+      "medal": true,
+      "progress": 1,
+      "tutorialLevel": 1,
+      "costume": 2,
+      "costumes": [
+        5,
+        2
+      ],
+      "boost": 1
+    },
+    "wallnut": {
+      "medal": true,
+      "progress": 1,
+      "tutorialLevel": 1,
+      "costume": 4,
+      "costumes": [
+        4
+      ],
+      "boost": 1
+    },
+    "potatomine": {
+      "medal": true,
+      "progress": 1,
+      "tutorialLevel": 0,
+      "costume": 0,
+      "costumes": [
+        0
+      ],
+      "boost": 1
+    },
+    "cabbagepult": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "bloomerang": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "iceburg": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "bonkchoy": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "repeater": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "megagatling": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "scaredyshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "fumeshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "gravebuster": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "pumpkin": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "pvine": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "floawerPot": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "firepeashooter": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "threepeater": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "primalpeashooter": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "xshot": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "homingthistle": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "starfruit": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "shootingstarfruit": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "lilypad": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "sunshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "twinsunflower": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "dragonbruit": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "moonflower": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "snowpea": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "lightningreed": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "kernelpult": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "meteorflower": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "springbean": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "umbrellaleaf": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "melonpult": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "wintermelon": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "blover": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "spikeweed": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "spikerock": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "chomper": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "glaciershroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "primalwallnut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "buttercup": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "banana": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "missiletoe": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "cherry_bomb": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "doomshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "cranjelly": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "dragonbabybruit": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "torchwood": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "jalapeno": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "puffshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "gloomvine": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "vamporcini": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "primalpotatomine": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "cactus": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "powerlily": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "coconutcannon": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "peapod": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "snapdragon": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "gatling": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "splitpea": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "chilibean": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tallnut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "hurrikale": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 0,
+      "medal": true
+    },
+    "stallia": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "electricpeashooter": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "squash": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "gloomshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "magnifyinggrass": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "celerystalker": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "sapfling": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "parsnip": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "explodeonut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "grapeshot": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "plantern": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "peach": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "jackolantern": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "dandelion": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "chardguard": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "hypnoshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "electriccurrant": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "escaperoot": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "imitater": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "shadowshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "magnetshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "turnip": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "empea": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "citron": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "laser_bean": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "solartomato": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "powerplant_alpha": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "powerplant_beta": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "powerplant_gamma": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "powerplant_delta": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "powerplant_epsilon": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "holonut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "powerplant": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "marigold": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "marigold_red": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "marigold_orange": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "marigold_yellow": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "marigold_green": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "marigold_blue": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "marigold_pink": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "marigold_purple": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "applemortar": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "redstinger": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "skyshooter": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "sunbean": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "peanut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "zombiepotion_speed": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "zombiepotion_toughness": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "zombiepotion_invisibility": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tanglekelp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "bowlingbulb": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowlingbulb1": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowlingbulb2": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowlingbulb3": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowlingbulb_explode": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "guacodile": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowling_wallnut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowling_explodeonut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowling_holonut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowling_primalwallnut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowlingbulb_iceburg": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "tool_projectile_bowling_tallnut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "ghostpepper": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "sweetpotato": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "pepperpult": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "hotpotato": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "stunion": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "goldleaf": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "akee": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "endurian": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "toadstool": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "lavaguava": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "phatbeet": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "strawburst": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "thymewarp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "phatbeet_rhythm": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "seashroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "garlic": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "electricblueberry": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "sporeshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "intensivecarrot": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "primalsunflower": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "moonbean": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "coldsnapdragon": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "nightshade": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "dusklobber": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "grimrose": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "goldbloom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "bloominghearts": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "shrinkingviolet": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "hotdate": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "firegourd": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "bambooshoot": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "snowdrop": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "lychee": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "perfumeshroom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "solarsage": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "bamboozle": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "bamboobusket": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "cantaloupe": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "iceweed": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "pinkstarfruit": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "icebloom": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "zoybeanpod": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "atombomb": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "seedling": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "pyrevine": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "shinevine": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "atombomb_seedling": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "hollyknight": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "hollybarrierleaf": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "hollybarrierleafplantfood": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "aloe": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "caulipower": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "gumnut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "reinforcemint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "enlightenmint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "wintermint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "spearmint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "appeasemint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "enforcemint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "peppermint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "bombardmint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "concealmint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "ailmint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "enchantmint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "filamint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "containmint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "armamint": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "seashooter": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "shadowpeashooter": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "murkadamia": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "noctarine": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "snappea": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "asparagus": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "pineapple": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "anthurium": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "bulbkekengi": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "loquat": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "peacommando": {
+      "progress": 2,
+      "tutorialLevel": 1,
+      "costume": -1,
+      "costumes": [],
+      "boost": 0,
+      "medal": true
+    },
+    "wasabiwhip": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "poisonpeashooter": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "darkmatterdragonfruit": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "mirrornut": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "inferno": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "slingpea": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "chillypepper": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "witchhazel": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "blastberry": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "turkeypult": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "stickybombrice": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "lotorpedo": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "firepeashooter_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "poisonpeashooter_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "snowpea_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "primalpeashooter_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "electricpeashooter_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "threepeater_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "shadowpeashooter_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "repeater_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "splitpea_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "slingpea_mgp": {
+      "progress": 0,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "peapod_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "seashooter_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "snappea_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "skyshooter_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "gatling_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    },
+    "peacommando_mgp": {
+      "progress": 2,
+      "tutorialLevel": 0,
+      "costume": -1,
+      "costumes": [],
+      "boost": 1,
+      "medal": true
+    }
+  },
+  "zombieProps": {
+    "tutorial": {
+      "progress": 2
+    },
+    "tutorial_flag": {
+      "progress": 2
+    },
+    "tutorial_armor1": {
+      "progress": 2
+    },
+    "tutorial_armor2": {
+      "progress": 2
+    },
+    "mummy": {
+      "progress": 2
+    },
+    "ra": {
+      "progress": 2
+    },
+    "mummy_armor1": {
+      "progress": 2
+    },
+    "mummy_flag": {
+      "progress": 2
+    },
+    "tutorial_armor4": {
+      "progress": 0
+    },
+    "tutorial_flag_veteran": {
+      "progress": 1
+    },
+    "duckytube": {
+      "progress": 0
+    },
+    "tutorial_imp": {
+      "progress": 0
+    },
+    "tutorial_gargantuar": {
+      "progress": 0
+    },
+    "vase_gargantuar": {
+      "progress": 0
+    },
+    "mummy_armor2": {
+      "progress": 0
+    },
+    "mummy_armor4": {
+      "progress": 0
+    },
+    "mummy_flag_veteran": {
+      "progress": 0
+    },
+    "camel_onehump": {
+      "progress": 0
+    },
+    "explorer": {
+      "progress": 0
+    },
+    "explorer_veteran": {
+      "progress": 0
+    },
+    "tomb_raiser": {
+      "progress": 0
+    },
+    "pharaoh": {
+      "progress": 0
+    },
+    "egypt_imp": {
+      "progress": 0
+    },
+    "egypt_gargantuar": {
+      "progress": 0
+    },
+    "zombossmech_egypt": {
+      "progress": 0
+    },
+    "pirate": {
+      "progress": 0
+    },
+    "pirate_armor1": {
+      "progress": 0
+    },
+    "pirate_armor2": {
+      "progress": 0
+    },
+    "pirate_armor4": {
+      "progress": 0
+    },
+    "pirate_flag": {
+      "progress": 0
+    },
+    "pirate_flag_veteran": {
+      "progress": 0
+    },
+    "swashbuckler": {
+      "progress": 0
+    },
+    "seagull": {
+      "progress": 0
+    },
+    "pelican": {
+      "progress": 0
+    },
+    "barrelroller": {
+      "progress": 0
+    },
+    "pirate_imp": {
+      "progress": 0
+    },
+    "cannon": {
+      "progress": 0
+    },
+    "pirate_captain": {
+      "progress": 0
+    },
+    "pirate_captain_parrot": {
+      "progress": 0
+    },
+    "pirate_gargantuar": {
+      "progress": 0
+    },
+    "zombossmech_pirate": {
+      "progress": 0
+    },
+    "cowboy": {
+      "progress": 0
+    },
+    "cowboy_armor1": {
+      "progress": 0
+    },
+    "cowboy_armor2": {
+      "progress": 0
+    },
+    "cowboy_armor4": {
+      "progress": 0
+    },
+    "cowboy_flag": {
+      "progress": 0
+    },
+    "cowboy_flag_veteran": {
+      "progress": 0
+    },
+    "prospector": {
+      "progress": 0
+    },
+    "piano": {
+      "progress": 0
+    },
+    "poncho": {
+      "progress": 0
+    },
+    "chicken_farmer": {
+      "progress": 0
+    },
+    "chicken": {
+      "progress": 0
+    },
+    "west_bull": {
+      "progress": 0
+    },
+    "west_bull_veteran": {
+      "progress": 0
+    },
+    "west_bullrider": {
+      "progress": 0
+    },
+    "cowboy_gargantuar": {
+      "progress": 0
+    },
+    "zombossmech_cowboy": {
+      "progress": 0
+    },
+    "future": {
+      "progress": 0
+    },
+    "future_armor1": {
+      "progress": 0
+    },
+    "future_armor2": {
+      "progress": 0
+    },
+    "future_armor4": {
+      "progress": 0
+    },
+    "future_flag": {
+      "progress": 0
+    },
+    "future_flag_veteran": {
+      "progress": 0
+    },
+    "future_jetpack": {
+      "progress": 0
+    },
+    "future_jetpack_veteran": {
+      "progress": 0
+    },
+    "future_jetpack_disco": {
+      "progress": 0
+    },
+    "future_protector": {
+      "progress": 0
+    },
+    "future_imp": {
+      "progress": 0
+    },
+    "mech_cone": {
+      "progress": 0
+    },
+    "disco_mech": {
+      "progress": 0
+    },
+    "football_mech": {
+      "progress": 0
+    },
+    "future_gargantuar": {
+      "progress": 0
+    },
+    "zombossmech_future": {
+      "progress": 0
+    },
+    "dark": {
+      "progress": 0
+    },
+    "dark_armor1": {
+      "progress": 0
+    },
+    "dark_armor2": {
+      "progress": 0
+    },
+    "dark_armor3": {
+      "progress": 0
+    },
+    "dark_armor4": {
+      "progress": 0
+    },
+    "dark_flag": {
+      "progress": 0
+    },
+    "dark_flag_veteran": {
+      "progress": 0
+    },
+    "dark_imp": {
+      "progress": 0
+    },
+    "dark_juggler": {
+      "progress": 0
+    },
+    "dark_gargantuar": {
+      "progress": 0
+    },
+    "dark_wizard": {
+      "progress": 0
+    },
+    "dark_wizard_veteran": {
+      "progress": 0
+    },
+    "dark_king": {
+      "progress": 0
+    },
+    "dark_king_veteran": {
+      "progress": 0
+    },
+    "dark_imp_dragon": {
+      "progress": 0
+    },
+    "zombossmech_dark": {
+      "progress": 0
+    },
+    "beach": {
+      "progress": 0
+    },
+    "beach_armor1": {
+      "progress": 0
+    },
+    "beach_armor2": {
+      "progress": 0
+    },
+    "beach_armor4": {
+      "progress": 0
+    },
+    "beach_flag": {
+      "progress": 0
+    },
+    "beach_flag_veteran": {
+      "progress": 0
+    },
+    "beach_fem": {
+      "progress": 0
+    },
+    "beach_fem_armor1": {
+      "progress": 0
+    },
+    "beach_fem_armor2": {
+      "progress": 0
+    },
+    "beach_fem_armor4": {
+      "progress": 0
+    },
+    "beach_snorkel": {
+      "progress": 0
+    },
+    "beach_imp": {
+      "progress": 0
+    },
+    "beach_surfer": {
+      "progress": 0
+    },
+    "beach_surfer_veteran": {
+      "progress": 0
+    },
+    "beach_gargantuar": {
+      "progress": 0
+    },
+    "beach_octopus": {
+      "progress": 0
+    },
+    "beach_fisherman": {
+      "progress": 0
+    },
+    "zombossmech_beach": {
+      "progress": 0
+    },
+    "iceage": {
+      "progress": 0
+    },
+    "iceage_armor1": {
+      "progress": 0
+    },
+    "iceage_armor2": {
+      "progress": 0
+    },
+    "iceage_armor3": {
+      "progress": 0
+    },
+    "iceage_armor4": {
+      "progress": 0
+    },
+    "iceage_flag": {
+      "progress": 0
+    },
+    "iceage_flag_veteran": {
+      "progress": 0
+    },
+    "iceage_hunter": {
+      "progress": 0
+    },
+    "iceage_hunter_veteran": {
+      "progress": 0
+    },
+    "iceage_imp": {
+      "progress": 0
+    },
+    "iceage_dodo": {
+      "progress": 0
+    },
+    "iceage_troglobite": {
+      "progress": 0
+    },
+    "iceage_troglobite_veteran": {
+      "progress": 0
+    },
+    "iceage_weaselhoarder": {
+      "progress": 0
+    },
+    "iceage_weasel": {
+      "progress": 0
+    },
+    "iceage_gargantuar": {
+      "progress": 0
+    },
+    "zombossmech_iceage": {
+      "progress": 0
+    },
+    "lostcity": {
+      "progress": 0
+    },
+    "lostcity_armor1": {
+      "progress": 0
+    },
+    "lostcity_armor2": {
+      "progress": 0
+    },
+    "lostcity_armor4": {
+      "progress": 0
+    },
+    "lostcity_flag": {
+      "progress": 0
+    },
+    "lostcity_flag_veteran": {
+      "progress": 0
+    },
+    "lostcity_imp": {
+      "progress": 0
+    },
+    "lostcity_lostpilot": {
+      "progress": 0
+    },
+    "lostcity_lostpilot_veteran": {
+      "progress": 0
+    },
+    "lostcity_excavator": {
+      "progress": 0
+    },
+    "lostcity_jane": {
+      "progress": 0
+    },
+    "lostcity_bug": {
+      "progress": 0
+    },
+    "lostcity_gargantuar": {
+      "progress": 0
+    },
+    "lostcity_impporter": {
+      "progress": 0
+    },
+    "lostcity_relichunter": {
+      "progress": 0
+    },
+    "lostcity_crystalskull": {
+      "progress": 0
+    },
+    "zombossmech_lostcity": {
+      "progress": 0
+    },
+    "kongfu": {
+      "progress": 0
+    },
+    "kongfu_armor1": {
+      "progress": 0
+    },
+    "kongfu_armor2": {
+      "progress": 0
+    },
+    "kongfu_armor4": {
+      "progress": 0
+    },
+    "kongfu_flag": {
+      "progress": 0
+    },
+    "kongfu_flag_veteran": {
+      "progress": 0
+    },
+    "kongfu_torch": {
+      "progress": 0
+    },
+    "kongfu_hammer": {
+      "progress": 0
+    },
+    "kongfu_bomb": {
+      "progress": 0
+    },
+    "kongfu_gong": {
+      "progress": 0
+    },
+    "kongfu_drink": {
+      "progress": 0
+    },
+    "kongfu_chi": {
+      "progress": 0
+    },
+    "kongfu_rocket_imp": {
+      "progress": 0
+    },
+    "monk": {
+      "progress": 0
+    },
+    "monk_armor1": {
+      "progress": 0
+    },
+    "monk_armor2": {
+      "progress": 0
+    },
+    "monk_armor4": {
+      "progress": 0
+    },
+    "monk_flag": {
+      "progress": 0
+    },
+    "monk_flag_veteran": {
+      "progress": 0
+    },
+    "monk_blade": {
+      "progress": 0
+    },
+    "monk_torch": {
+      "progress": 0
+    },
+    "monk_nunchaku": {
+      "progress": 0
+    },
+    "monk_drink": {
+      "progress": 0
+    },
+    "monk_drink_veteran": {
+      "progress": 0
+    },
+    "monk_imp": {
+      "progress": 0
+    },
+    "abbot": {
+      "progress": 0
+    },
+    "abbot_armor1": {
+      "progress": 0
+    },
+    "abbot_armor2": {
+      "progress": 0
+    },
+    "abbot_armor4": {
+      "progress": 0
+    },
+    "abbot_flag": {
+      "progress": 0
+    },
+    "abbot_flag_veteran": {
+      "progress": 0
+    },
+    "abbot_torch": {
+      "progress": 0
+    },
+    "abbot_fan": {
+      "progress": 0
+    },
+    "abbot_chi": {
+      "progress": 0
+    },
+    "abbot_3section_staff": {
+      "progress": 0
+    },
+    "abbot_imp": {
+      "progress": 0
+    },
+    "kongfu_bronze_strong": {
+      "progress": 0
+    },
+    "kongfu_bronze_hook": {
+      "progress": 0
+    },
+    "kongfu_bronze_chi": {
+      "progress": 0
+    },
+    "kongfu_boss_explode": {
+      "progress": 0
+    },
+    "kongfu_boss_blade": {
+      "progress": 0
+    },
+    "kongfu_boss_chi": {
+      "progress": 0
+    },
+    "eighties": {
+      "progress": 0
+    },
+    "eighties_armor1": {
+      "progress": 0
+    },
+    "eighties_armor2": {
+      "progress": 0
+    },
+    "eighties_armor4": {
+      "progress": 0
+    },
+    "eighties_flag": {
+      "progress": 0
+    },
+    "eighties_flag_veteran": {
+      "progress": 0
+    },
+    "eighties_punk": {
+      "progress": 0
+    },
+    "eighties_punk_veteran": {
+      "progress": 0
+    },
+    "eighties_skunk": {
+      "progress": 0
+    },
+    "eighties_glitter": {
+      "progress": 0
+    },
+    "eighties_mc": {
+      "progress": 0
+    },
+    "eighties_imp": {
+      "progress": 0
+    },
+    "eighties_gargantuar": {
+      "progress": 0
+    },
+    "eighties_breakdancer": {
+      "progress": 0
+    },
+    "eighties_arcade": {
+      "progress": 0
+    },
+    "eighties_8bit": {
+      "progress": 0
+    },
+    "eighties_boombox": {
+      "progress": 0
+    },
+    "zombossmech_eighties": {
+      "progress": 0
+    },
+    "dino": {
+      "progress": 0
+    },
+    "dino_armor1": {
+      "progress": 0
+    },
+    "dino_armor2": {
+      "progress": 0
+    },
+    "dino_armor3": {
+      "progress": 0
+    },
+    "dino_armor4": {
+      "progress": 0
+    },
+    "dino_flag": {
+      "progress": 0
+    },
+    "dino_flag_veteran": {
+      "progress": 0
+    },
+    "dino_bully": {
+      "progress": 0
+    },
+    "dino_bully_veteran": {
+      "progress": 0
+    },
+    "dino_imp": {
+      "progress": 0
+    },
+    "dino_gargantuar": {
+      "progress": 0
+    },
+    "zombossmech_dino": {
+      "progress": 0
+    },
+    "sky": {
+      "progress": 0
+    },
+    "sky_armor1": {
+      "progress": 0
+    },
+    "sky_armor2": {
+      "progress": 0
+    },
+    "sky_flag": {
+      "progress": 0
+    },
+    "sky_battleplane": {
+      "progress": 0
+    },
+    "sky_twin": {
+      "progress": 0
+    },
+    "sky_electric": {
+      "progress": 0
+    },
+    "sky_dronemaker": {
+      "progress": 0
+    },
+    "sky_arbiterx": {
+      "progress": 0
+    },
+    "sky_imp": {
+      "progress": 0
+    },
+    "sky_gargantuar": {
+      "progress": 0
+    },
+    "zombossmech_sky": {
+      "progress": 0
+    },
+    "modern_newspaper": {
+      "progress": 0
+    },
+    "newspaper_veteran": {
+      "progress": 0
+    },
+    "modern_balloon": {
+      "progress": 0
+    },
+    "modern_allstar": {
+      "progress": 0
+    },
+    "modern_superfanimp": {
+      "progress": 0
+    },
+    "zomboni": {
+      "progress": 0
+    },
+    "bobsled_team": {
+      "progress": 0
+    },
+    "bobsled": {
+      "progress": 0
+    },
+    "catapult": {
+      "progress": 0
+    },
+    "supernova_gargantuar": {
+      "progress": 0
+    },
+    "treasureyeti": {
+      "progress": 0
+    }
+  },
+  "player_trophies": {
+    "sauce": {
+      "progress": 1
+    },
+    "map": {
+      "progress": 1
+    }
+  },
+  "levelProps": {
+    "tutorial1": {
+      "progress": 3
+    },
+    "egypt2": {
+      "progress": 1
+    },
+    "egypt1": {
+      "progress": 4
+    },
+    "tutorial4": {
+      "progress": 3
+    },
+    "egypt5": {
+      "progress": 0
+    },
+    "egypt6": {
+      "progress": 1
+    },
+    "egypt7": {
+      "progress": 0
+    },
+    "tutorial2": {
+      "progress": 3
+    },
+    "tutorial3": {
+      "progress": 3
+    },
+    "egypt_dangerroom": {
+      "progress": 0
+    },
+    "egypt_dangerroom_minigame": {
+      "progress": 0
+    },
+    "egypt_dangerroom2": {
+      "progress": 0
+    },
+    "egypt3": {
+      "progress": 1
+    },
+    "egypt4": {
+      "progress": 0
+    },
+    "egypt8": {
+      "progress": 0
+    },
+    "egypt9": {
+      "progress": 0
+    },
+    "egypt10": {
+      "progress": 1
+    },
+    "egypt11": {
+      "progress": 0
+    },
+    "egypt12": {
+      "progress": 0
+    },
+    "egypt13": {
+      "progress": 0
+    },
+    "egypt14": {
+      "progress": 1
+    },
+    "egypt15": {
+      "progress": 0
+    },
+    "egypt16": {
+      "progress": 0
+    },
+    "egypt17": {
+      "progress": 0
+    },
+    "egypt18": {
+      "progress": 1
+    },
+    "egypt19": {
+      "progress": 0
+    },
+    "egypt20": {
+      "progress": 1
+    },
+    "egypt20_1": {
+      "progress": 0
+    },
+    "egypt21": {
+      "progress": 0
+    },
+    "egypt21_1": {
+      "progress": 0
+    },
+    "egypt22": {
+      "progress": 1
+    },
+    "egypt22_1": {
+      "progress": 0
+    },
+    "egypt23": {
+      "progress": 0
+    },
+    "egypt24": {
+      "progress": 0
+    },
+    "egypt24_1": {
+      "progress": 0
+    },
+    "egypt25": {
+      "progress": 1
+    },
+    "egypt26": {
+      "progress": 0
+    },
+    "egypt27": {
+      "progress": 0
+    },
+    "egypt28": {
+      "progress": 0
+    },
+    "egypt29": {
+      "progress": 0
+    },
+    "egypt30": {
+      "progress": 0
+    },
+    "egypt31": {
+      "progress": 0
+    },
+    "egypt32": {
+      "progress": 0
+    },
+    "egypt33": {
+      "progress": 0
+    },
+    "egypt34": {
+      "progress": 0
+    },
+    "egypt35": {
+      "progress": 0
+    },
+    "appease1_0": {
+      "progress": 0
+    },
+    "appease1_1": {
+      "progress": 0
+    },
+    "squash0": {
+      "progress": 0
+    },
+    "squash1": {
+      "progress": 0
+    },
+    "undefined": {
+      "progress": 0
+    }
+  },
+  "worldProgress": [],
+  "cardDecks": [],
+  "memoryPlantChoose": [
+    "peashooter",
+    "doomshroom",
+    "asparagus",
+    "mirrornut",
+    "gatling",
+    "powerplant",
+    "magnifyinggrass",
+    "peacommando"
+  ],
+  "zengarden": {
+    "sprout": 0,
+    "plantsInMain": [],
+    "plantsInMushroom": [],
+    "plantsInBeach": [],
+    "plantsInNight": [],
+    "plantInCart": null,
+    "slotsInMain": [
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      }
+    ],
+    "slotsInMushroom": [
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      }
+    ],
+    "slotsInBeach": [
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      }
+    ],
+    "slotsInNight": [
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      },
+      {
+        "unlocked": true
+      }
+    ]
+  },
+  "arcade_plant_decoding": {
+    "played_today": true,
+    "gem_today": 0,
+    "max_base_count": 5,
+    "max_code_count": 4
+  },
+  "yeti_spawned_today": true,
+  "player_dangerroom": {
+    "chooser": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "egypt": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "pirate": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "cowboy": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "future": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "dark": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "beach": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "iceage": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "lostcity": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "eighties": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "dino": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "modern": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "kongfu": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_egypt": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_pirate": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_cowboy": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_future": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_dark": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_beach": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_iceage": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_lostcity": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_eighties": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_dino": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_modern": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_kongfu": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "sky": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    },
+    "epic_sky": {
+      "level": 1,
+      "plants": [],
+      "plantfood": 0,
+      "mower": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "plantChosen": false
+    }
+  },
+  "player_dangerroom_minigame": {
+    "chooser": {
+      "level": 1
+    },
+    "egypt": {
+      "level": 1
+    },
+    "pirate": {
+      "level": 1
+    },
+    "cowboy": {
+      "level": 1
+    },
+    "future": {
+      "level": 1
+    },
+    "dark": {
+      "level": 1
+    },
+    "beach": {
+      "level": 1
+    },
+    "iceage": {
+      "level": 1
+    },
+    "lostcity": {
+      "level": 1
+    },
+    "epic": {
+      "level": 1
+    },
+    "eighties": {
+      "level": 1
+    },
+    "dino": {
+      "level": 1
+    },
+    "modern": {
+      "level": 1
+    },
+    "kongfu": {
+      "level": 1
+    },
+    "epic_egypt": {
+      "level": 1
+    },
+    "epic_pirate": {
+      "level": 1
+    },
+    "epic_cowboy": {
+      "level": 1
+    },
+    "epic_future": {
+      "level": 1
+    },
+    "epic_dark": {
+      "level": 1
+    },
+    "epic_beach": {
+      "level": 1
+    },
+    "epic_iceage": {
+      "level": 1
+    },
+    "epic_lostcity": {
+      "level": 1
+    },
+    "epic_eighties": {
+      "level": 1
+    },
+    "epic_dino": {
+      "level": 1
+    },
+    "epic_modern": {
+      "level": 1
+    },
+    "epic_kongfu": {
+      "level": 1
+    },
+    "sky": {
+      "level": 1
+    },
+    "epic_sky": {
+      "level": 1
+    }
+  },
+  "worldProps": {
+    "0": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "1": {
+      "unlocked": true,
+      "viewed": true,
+      "wmx": -47.89081705513096
+    },
+    "2": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "3": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "4": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "5": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "6": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "7": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "8": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "9": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "10": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "11": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "12": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "13": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "14": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "15": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "16": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "17": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "18": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "19": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "20": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "21": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "22": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "23": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "24": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "25": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "26": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "27": {
+      "unlocked": true,
+      "viewed": false,
+      "wmx": 0
+    },
+    "currentWM": 0,
+    "worldChooserPos": 0
+  },
+  "player_upgrades": {
+    "14": {
+      "progress": 0,
+      "enabled": true
+    },
+    "upgrade_starting_sun_lvl1": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_starting_sun_lvl2": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_pf_slots_lvl1": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_pf_slots_lvl2": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_wallnut_firstaid": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_pf_refresh": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_sunshovel_lvl1": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_sunshovel_lvl2": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_sunshovel_lvl3": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_7_slots": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_8_slots": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_manual_mowers_1": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_manual_mowers_2": {
+      "progress": 2,
+      "enabled": true
+    },
+    "upgrade_sky_shield": {
+      "progress": 2,
+      "enabled": true
+    },
+    "amount": {
+      "progress": 0,
+      "enabled": true
+    },
+    "__enums__": {
+      "progress": 0,
+      "enabled": true
+    }
+  },
+  "tutorial": {
+    "plantfood": false,
+    "almanac_intro": true,
+    "store_open": true,
+    "store_intro": true,
+    "almanac_open": false,
+    "premium_light_up": false,
+    "premium_unlock": false,
+    "premium_bring_out": false,
+    "worldmap": true,
+    "worldkey": true,
+    "zengarden_open": false,
+    "zengarden_intro": false
+  },
+  "features": {
+    "feature_zengarden": true,
+    "feature_almanac": true,
+    "feature_coins": true,
+    "feature_worldmap": true,
+    "feature_worldkeys": true,
+    "feature_plantfood": true,
+    "feature_shovel": true,
+    "feature_powerup": true,
+    "feature_store": true,
+    "feature_plantfood_purchase": true,
+    "feature_lod": true
+  },
+  "version": "0.16.1"
+}
